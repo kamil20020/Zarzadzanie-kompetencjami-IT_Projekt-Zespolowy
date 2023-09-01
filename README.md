@@ -3,6 +3,8 @@ Aplikacja umożliwia przełożonemu przydzielanie zadań do osób posiadających
 
 Zgłosiliśmy aplikację na konferencję projektów zespołowych 2022 Politechniki Wrocławskiej, gdzie m.in. zaprezentowaliśmy nasz produkt przed publicznością. Na końcu konferencji odbyło się głosowanie na najlepszy projekt i mimo iż nie udało się zwyciężyć, to kilku firmom spodobał się nasz projekt.
 
+Link do filmu demonstrującego działanie aplikacji: https://drive.google.com/file/d/1STox64zxTvBYRx1qQMhokqsFA-oaV4dU/view?usp=sharing
+
 Kod aplikacji jest własnością firmy Orange.
 
 ## Wymagania funkcjonalne:
@@ -44,7 +46,7 @@ Kod aplikacji jest własnością firmy Orange.
 ## Widoki aplikacji:
 Strona główna:
 <p align="center">
-    <img src="img/glowna.png">
+    <img src="img/strona-glowna.png">
 </p>
 
 Wyszukiwanie pracowników:
