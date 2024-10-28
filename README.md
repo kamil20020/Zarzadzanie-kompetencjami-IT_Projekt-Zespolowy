@@ -5,7 +5,7 @@ Zgłosiliśmy aplikację na konferencję projektów zespołowych 2022 Politechni
 
 Link do filmu demonstrującego działanie aplikacji: https://drive.google.com/file/d/1STox64zxTvBYRx1qQMhokqsFA-oaV4dU/view?usp=sharing
 
-Kod aplikacji jest własnością firmy Orange.
+Kod aplikacji jest własnością firmy Orange. 
 
 ## Wymagania funkcjonalne:
 * Wyszukiwanie pracowników według:
